@@ -22,7 +22,6 @@ This repository contains curated notes, resources, and practice materials for th
 ## 🛠️ Resources
 - [Microsoft Learn AZ-900 Path](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 - [Official Exam Guide](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-- [John Savill’s Study Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nFq0Y3uKZkU2KzY3Gq8Vx3L)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
 
