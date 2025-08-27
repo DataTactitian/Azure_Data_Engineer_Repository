@@ -28,9 +28,6 @@ This repository contains curated notes, resources, and practice materials for th
 
 ## 🧪 How to Use
 - Start with the **notes/** folder for concept breakdowns  
-- Use **quizzes/** to test your understanding  
-- Explore **labs/** for practical exposure  
-- Refer to **diagrams/** for visual reinforcement
 
 ## 🏆 Certification Tips
 - Focus on understanding **why** services exist, not just what they do  
